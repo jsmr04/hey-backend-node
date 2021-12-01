@@ -1,0 +1,11 @@
+{
+  "name": "heychat-backend-node",
+  "version": "1.0.0",
+  "description": "Backend project for HEY chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "jsmr04@gmail.com",
+  "license": "ISC"
+}
